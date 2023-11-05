@@ -4,6 +4,3 @@ this is an simple NLP chat bot which can answer pre trained questions:
 
 proj submitted by :
 ayaan (142).
-stanley (132).
-ojas katyal (145).
-aditya sengar (140).
