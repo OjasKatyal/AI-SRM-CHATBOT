@@ -31,6 +31,7 @@
                         ],
                         "responses": [
                                 "Doing outstanding!,I'd be happy to assist ",
+                                "Greetings! How can I be of service to you today?",
                                 "Good to see you, how may i help you today?",
                                 "Hi there, how can I help?",
                                 "Glad to hear from you!!, What can I do for you?",
@@ -51,6 +52,7 @@
                                 "Goodbye",
                                 "I am Leaving",
                                 "Bye",
+                                "Byee",
                                 "Have a Good day",
                                 "talk to you later",
                                 "tyyl",
@@ -89,7 +91,8 @@
                                 "Bye for now.",
                                 "Don't be a stranger.",
                                 "Good seeing you!",
-                                "Keep in touch."
+                                "Keep in touch.",
+                                "Have a fab day folk!! It was a pleasure to assist you."
 
                         ],
                         "context_set": ""
@@ -116,9 +119,9 @@
                                 "who designed you"
                         ],
                         "responses": [
-                                "Ayaan...cs student at SRM created me on 22 apr 2023 ",
-                                "I was developed by Ayaan , and he is not proud of me",
-                                "ayaan RA2111026030142 created me when he was in second year of his b.tech course"
+                                "Ayaan, Ojas & Stanley at SRM created me on 22 April 2023 ",
+                                "I was developed by Ayaan, Ojas & Stanley , and they is not proud of me :( ",
+                                "Ayaan, Ojas & Stanley created me when they was in second year of their B.tech Course"
                         ],
                         "context_set": ""
                 },
